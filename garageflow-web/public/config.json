@@ -1,0 +1,5 @@
+{
+  "ordenesUrl": "http://localhost:8081",
+  "agendaUrl": "http://localhost:8082",
+  "auditoriaUrl": "http://localhost:8083"
+}
